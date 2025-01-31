@@ -1,6 +1,6 @@
 # 🚀 Selamat Datang di Repositori Saya! 🚀
 
-Halo! Saya **Nama Kamu**, dan ini adalah repositori GitHub saya. Saya suka berkontribusi pada proyek-proyek open source dan belajar hal-hal baru setiap hari. Jangan ragu untuk menjelajahi repositori saya dan memberikan masukan!
+Halo! Saya **Ibram Manggara**, dan ini adalah repositori GitHub saya. Saya suka berkontribusi pada proyek-proyek open source dan belajar hal-hal baru setiap hari. Jangan ragu untuk menjelajahi repositori saya dan memberikan masukan!
 
 ## 🌟 Tentang Saya
 
@@ -36,3 +36,4 @@ Berikut adalah beberapa teknologi dan tools yang saya gunakan:
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=ibrammanggara&show_icons=true&theme=radical)
 
 ![Bahasa yang Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrammanggara&layout=compact&theme=radical)
+
