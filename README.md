@@ -1,7 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ibram+Manggara!;" />
 </h1>
-# 🚀 Selamat Datang di Repositori Saya! 🚀
+
+## 🚀 Selamat Datang di Repositori Saya! 🚀
 
 Halo! Saya **Ibram Manggara**, dan ini adalah repositori GitHub saya. Saya suka berkontribusi pada proyek-proyek open source dan belajar hal-hal baru setiap hari. Jangan ragu untuk menjelajahi repositori saya dan memberikan masukan!
 
