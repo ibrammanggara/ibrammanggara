@@ -2,6 +2,8 @@
 
 Halo! Saya **Ibram Manggara**, dan ini adalah repositori GitHub saya. Saya suka berkontribusi pada proyek-proyek open source dan belajar hal-hal baru setiap hari. Jangan ragu untuk menjelajahi repositori saya dan memberikan masukan!
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 ## 🌟 Tentang Saya
 
 - 🌱 Saya sedang mempelajari **Teknologi Komputasi Awan (Cloud Computing)**
