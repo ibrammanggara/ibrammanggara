@@ -15,9 +15,3 @@ Berikut adalah Alat yang saya gunakan:
 
 - **Tools**: 
 
-## 📈 Statistik GitHub
-
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=ibrammanggara&show_icons=true&theme=radical)
-
-![Bahasa yang Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrammanggara&layout=compact&theme=radical)
-
