@@ -18,6 +18,8 @@ Halo! Saya **Ibram Manggara**, dan ini adalah repositori GitHub saya. Saya suka 
 - 📫 Cara menghubungi saya: **ibrammanggaraa@gmail.com**
 - ⚡ Fakta menarik: **penjelajah linux, bangun private server sendiri, bikin tools dengan ai, ketika gabut coba hal baru hehehe (masih sejalur dengan jurusan)**
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🛠️ Alat Tempur
 
 Berikut adalah Alat yang saya gunakan:
