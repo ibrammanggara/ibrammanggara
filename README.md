@@ -31,7 +31,6 @@ Berikut adalah Alat yang saya gunakan:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="50" title="Ansible" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="50" title="Terraform" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes" />
   <img src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=50&color=currentColor" width="50" title="AWS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" title="Bash" />
