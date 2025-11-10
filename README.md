@@ -11,7 +11,7 @@ Halo! Saya **Ibram Manggara**, dan ini adalah repositori GitHub saya. Saya suka 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-## 🌟 Tentang Saya
+## <img src="./bintang.gif" width="25" height="25"> Tentang Saya <img src="./bintang.gif" width="25" height="25">
 
 - 🌱 Saya sedang mempelajari **Teknologi Komputasi Awan (Cloud Computing)**
 - 💬 Tanyakan saya tentang **Amazon Web Service(AWS), Google Cloud Service(GCP), DigitalOcean(DO),Komputer & Jaringan, Linux OS**
