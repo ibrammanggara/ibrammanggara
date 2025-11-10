@@ -25,6 +25,10 @@ Halo! Saya **Ibram Manggara**, dan ini adalah repositori GitHub saya. Saya suka 
 Berikut adalah Alat yang saya gunakan:
 
 - **Tools**: **Terraform,Git,Filezila,Cli,AI(Deepseek,Chatgpt)**
+
+## 🧾 CV Saya
+
+- **link**: **https://drive.google.com/file/d/1-I4AB_f67qqoP_Tw6TxulKV9cDqlG7nx/view?usp=drivesdk**
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
