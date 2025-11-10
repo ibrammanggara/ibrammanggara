@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
-## <img src="./roket.gif" height="50" width="50"> Selamat Datang di Repositori Saya! <img src="./roket.gif" height="50" width="50">
+## <img src="./roket.gif" height="50" width="50"> Selamat Datang di Repo Saya! <img src="./roket.gif" height="50" width="50">
 
 Halo! Saya **Ibram Manggara**, dan ini adalah repositori GitHub saya. Saya suka berkontribusi pada proyek-proyek open source dan belajar hal-hal baru setiap hari. Jangan ragu untuk menjelajahi repositori saya dan memberikan masukan!
 
