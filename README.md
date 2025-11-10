@@ -28,7 +28,7 @@ Berikut adalah Alat yang saya gunakan:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-## 🧾 CV Saya
+## <img src="./kertas.gif" height="30" width="30"> CV Saya <img src="./kertas.gif" height="30" width="30">
 
 - **link**: **https://drive.google.com/file/d/1-I4AB_f67qqoP_Tw6TxulKV9cDqlG7nx/view?usp=drivesdk**
   
